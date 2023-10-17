@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working as **Senior software developer** at Chetu Inc
+- 🔭 I’m currently working as **Software Developer** at Synapse finance Inc
 - 🤝 Worked on **Django, Flask, AWS, Docker, Redis, Celery, MySql **
 - 📫 How to reach me **kumarvikas76@hotmail.com**
 
